@@ -39,7 +39,7 @@ MarkDown 내용정리
 click [My Git Hub](https://github.com/gy1022)
 
 <!-- Image -->
-![Image]()
+![Image](https://akaikaze00.openhost.cafe24.com/gamsungen/product8/20221201_ckwcushionpk_01.jpg)
 
 <!--Table-->
 |Header|Description|Other|
